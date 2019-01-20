@@ -1,4 +1,4 @@
-# banco-bit-ufpel
+# Terminal bancário fictício bitUFPEL
 
 Trabalho da disciplina de Redes de Computadores. Criação de um banco fictício onde há interação entre cliente e servidor. O projeto foi realizado em Python, por Rafael Nascimento e Gleider Campos.
 
