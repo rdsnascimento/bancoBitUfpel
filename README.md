@@ -1,5 +1,6 @@
 # banco-bit-ufpel
-Trabalho da disciplina de Redes de Computadores. Criação de um banco fictício onde há interação entre cliente e servidor. O projeto foi realizado em Python, por Gleider Campos e Rafael Nascimento.
+
+Trabalho da disciplina de Redes de Computadores. Criação de um banco fictício onde há interação entre cliente e servidor. O projeto foi realizado em Python, por Rafael Nascimento e Gleider Campos.
 
 # Como executar no Linux
 Para executar o cliente em ambiente linux, é só ir na raíz do projeto e digitar:
