@@ -1,6 +1,6 @@
 # Terminal bancário fictício bitUFPEL
 
-Trabalho da disciplina de Redes de Computadores. Criação de um banco fictício onde há interação entre cliente e servidor. O projeto foi realizado em Python, por Rafael Nascimento e Gleider Campos.
+Trabalho da disciplina de Redes de Computadores. Criação de um banco fictício onde há interação entre cliente e servidor. Desenvolvido por Rafael Nascimento e Gleider Campos.
 
 # Como executar no Linux
 Para executar o cliente em ambiente linux, é só ir na raíz do projeto e digitar:
